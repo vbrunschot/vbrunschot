@@ -1,7 +1,7 @@
 # Hi i'm Marcel van Brunschot
-Currently working as a Full Stack C# Developer, Data Engineer and Security Professional.
+Currently working as Security Professional and Data Engineer.
 
-Available for pentesting. Contact me at marcel.v.brunschot@outlook.com
+Available for pentesting and software development. Contact me at marcel.v.brunschot@outlook.com
 
 > Visit my [TryHackMe profile](https://tryhackme.com/p/mystr0)
 
