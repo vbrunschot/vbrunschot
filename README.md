@@ -9,3 +9,4 @@ In these repositories you'll find various resources which are mainly stored for 
 
 > Visit my [HackTheBox profile](https://app.hackthebox.com/profile/384853)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/mystr0.png" alt="TryHackMe"> <img src="http://www.hackthebox.eu/badge/image/384853" alt="Hack The Box">
