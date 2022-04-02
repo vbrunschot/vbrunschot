@@ -1,7 +1,7 @@
 # Hi i'm Marcel van Brunschot
 
 Available for pentesting and software development. 
-Contact me at marcel.v.brunschot@outlook.com
+Contact me at marcel.v.brunschot@outlook.com.
 
 In these repositories you'll find various resources which are mainly stored for personal convenience, but feel free to use them.
 
