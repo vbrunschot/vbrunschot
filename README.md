@@ -1,7 +1,4 @@
-# Hi i'm Marcel van Brunschot
-
-Available for pentesting and software development. 
-Contact me at marcel.v.brunschot@outlook.com.
+# Welcome at my GitHub
 
 In these repositories you'll find various security related resources which are mainly stored for personal convenience, however feel free to use them to your liking.
 
